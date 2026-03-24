@@ -25,7 +25,7 @@ if (possuiCadastro !==  "S") {
                 
             } else {
                 console.log("Acesso negado: menor de idade!");
-                alert("acesso negado");
+                alert("acesso negado"); //para alertar na pagina
             }
             
         } else {
